@@ -25,3 +25,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with blockchain
 - 💬 Ask me about home education
 -->
+
+*[Open-source software (OSS)](https://en.wikipedia.org/wiki/Open-source_software)
