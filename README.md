@@ -3,7 +3,10 @@
 
 I'm backend developer mostly focused on PHP, JAVA, JavaScript, Python, Bash
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tom-sapletta-com&hide=html&layout=compact&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tom-sapletta-com&hide=html&layout=compact&theme=dark) 
+# 2021
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tom-sapletta-com&show_icons=true&theme=dark)
+# All
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tom-sapletta-com&show_icons=true&theme=dark&include_all_commits=true)
  
 
