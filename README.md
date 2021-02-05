@@ -1,4 +1,4 @@
-... Hello in (OSS)(https://en.wikipedia.org/wiki/Open-source_software) World!
+... Hello in [OSS](https://en.wikipedia.org/wiki/Open-source_software) World!
 
 I'm Tom ... some backend developer mostly focused on PHP, JAVA, JavaScript, Python, Bash
 
