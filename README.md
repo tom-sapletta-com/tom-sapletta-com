@@ -1,5 +1,6 @@
 ... Hello in OSS World!
-- I'm Tom ... some backend developer mostly focused on PHP, JAVA, JavaScript, Python, Bash
+
+I'm Tom ... some backend developer mostly focused on PHP, JAVA, JavaScript, Python, Bash
 I am here to improve my management skills and to share my ideas in: video/app streaming, education, functional thinking
 Feel free to use my code, I spent many hours to give my ideas life, but it's still not perfect, don't hesitate to improve the code and use it to your own projects!
 
