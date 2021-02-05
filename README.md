@@ -1,4 +1,4 @@
-... Hello in OSS World!
+... Hello in OSS* World!
 
 I'm Tom ... some backend developer mostly focused on PHP, JAVA, JavaScript, Python, Bash
 
