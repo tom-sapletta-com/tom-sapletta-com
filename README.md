@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Tom
 [![Github](https://img.shields.io/github/followers/tom-sapletta-com?label=Follow&style=social)](https://github.com/tom-sapletta-com)
 
-I'm backend developer mostly focused on Spring / Spring Boot / Go.  
+I'm backend developer mostly focused on PHP, JAVA, JavaScript, Python, Bash
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tom-sapletta-com&hide=html&layout=compact&theme=dark)  
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tom-sapletta-com&show_icons=true&theme=dark&include_all_commits=true)
