@@ -1,5 +1,5 @@
 ### I'm Tom ... some backend developer mostly focused on PHP, JAVA, JavaScript, Python, Bash
-I am here to improve my manager skills and share my ideas in: video/app streaming, education, functional thinking
+I am here to improve my management skills and share my ideas in: video/app streaming, education, functional thinking
 Feel free to use my code, I spent many hours to give my ideas life, but it's still not perfect, don't hesitate to improve the code and use it to your own projects!
 
 [![Github](https://img.shields.io/github/followers/tom-sapletta-com?label=Follow&style=social)](https://github.com/tom-sapletta-com)
