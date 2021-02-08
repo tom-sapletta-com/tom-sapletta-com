@@ -14,14 +14,6 @@ Feel free to use my code, I spent many hours to give my ideas life, but it's sti
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tom-sapletta-com&show_icons=true&theme=dark)
  
 
-
-## kaluzaaa
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaluzaaa&hide=html&layout=compact&theme=dark) 
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kaluzaaa&show_icons=true&theme=dark)
-
-
 <!--
 **tom-sapletta-com/tom-sapletta-com** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
