@@ -25,3 +25,10 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with blockchain
 - 💬 Ask me about home education
 -->
+
+
+
+
+[![Github](https://img.shields.io/github/followers/kaluzaaa?label=Follow&style=social)](https://github.com/kaluzaaa)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaluzaaa&hide=html&layout=compact&theme=dark) 
