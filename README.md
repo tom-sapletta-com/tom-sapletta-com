@@ -16,3 +16,8 @@ Feel free to use my code, I spent many hours to give my ideas life, but it's sti
 
 - 🔭 I’m currently working on Softreck Projects
 - 💬 Ask me about home education
+
+<!-- replace x.x.x with actual version -->
+<script src="https://unpkg.com/@codersrank/skills-chart@0.9.20/codersrank-skills-chart.min.js"></script>
+
+<codersrank-skills-chart username="YOUR_USERNAME"></codersrank-skills-chart>
