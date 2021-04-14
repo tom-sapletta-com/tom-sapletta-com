@@ -29,4 +29,4 @@ Tom Sapletta {
 
 - Blog: [tom.sapletta.com](https://tom.sapletta.com/)
 - LinkedIn: [sapletta](https://www.linkedin.com/in/tom-sapletta-com/)
-- XING: [sapletta](https://www.xing.com/profile/tom.sapletta.com/)
+- XING: [sapletta](https://www.xing.com/profile/Tomasz_Sapletta)
