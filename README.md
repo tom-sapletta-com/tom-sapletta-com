@@ -17,3 +17,16 @@ Feel free to use my code, I spent many hours to give my ideas life, but it's sti
 - 🔭 I’m currently working on Softreck Projects
 - 💬 Ask me about home education
 
+
+```json
+Tom Sapletta {
+  "tags":     ["Domains", "DevOps", "Wetware", "Modularity"],  
+  "country":  "Germany",
+  "Language": ["JAVA", "Python", "PHP", "JS", "NodeJS", "..."],
+  "interest": ["Clean Code", "Clean Architecture", "Static Code Analysis", "Linux", "IoT"]
+}
+```
+
+- Blog: [tom.sapletta.com](https://tom.sapletta.com/)
+- LinkedIn: [sapletta](https://www.linkedin.com/in/tom-sapletta-com/)
+- XING: [sapletta](https://www.xing.com/profile/tom.sapletta.com/)
