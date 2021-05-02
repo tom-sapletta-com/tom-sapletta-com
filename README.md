@@ -12,7 +12,9 @@ Feel free to use my code, I spent many hours to give my ideas life, but it's sti
 
 ### :star: 2021
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tom-sapletta-com&show_icons=true&theme=dark)
- 
+<img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=education&username=tom-sapletta-com&max-items=2&logos=true&style=--item-bg-color:%23f00;--item-border-radius:10px"
+/> 
 
 - 🔭 I’m currently working on Softreck Projects
 - 💬 Ask me about home education
