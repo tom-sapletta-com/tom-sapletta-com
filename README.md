@@ -15,7 +15,7 @@ Feel free to use my code, I spent many hours to give my ideas life, but it's sti
 
 ![Cordersrank skills](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=tom-sapletta-com&skills=JavaScript,TypeScript&show-other-skills=true)
 
-![Cordersrank about](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=YOUR_USERNAME&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px)
+![Cordersrank about](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=tom-sapletta-com&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px)
 
 - 🔭 I’m currently working on Softreck Projects
 - 💬 Ask me about home education
