@@ -13,7 +13,7 @@ Feel free to use my code, I spent many hours to give my ideas life, but it's sti
 ### :star: 2021
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tom-sapletta-com&show_icons=true&theme=dark)
 
-![Cordersrank skills](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=tom-sapletta-com&skills=JavaScript,TypeScript&show-other-skills=true)
+![Cordersrank skills](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=tom-sapletta-com)
 
 ![Cordersrank about](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=tom-sapletta-com&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px)
 
