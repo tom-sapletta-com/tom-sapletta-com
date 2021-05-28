@@ -2,9 +2,8 @@
 
 I'm Tom, DevOps focused on PHP, JAVA, JavaScript/NodeJS/Deno, Python, Bash, ...
 
-🔭 I’m currently working on Softreck Projects
+🔭 I’m currently working on Softreck Projects and I am sharing here my ideas in areas: 
 
-I am here to improve my management skills and to share my ideas in areas: 
 + application streaming
 + functional thinking
 + wetware, devops, domains, microfrontends
