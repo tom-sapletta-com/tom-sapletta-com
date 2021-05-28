@@ -1,8 +1,13 @@
 ... Hello in [OSS](https://en.wikipedia.org/wiki/Open-source_software) World!
 
-I'm Tom ... some backend developer mostly focused on PHP, JAVA, JavaScript, Python, Bash
+I'm Tom, DevOps focused on PHP, JAVA, JavaScript/NodeJS/Deno, Python, Bash, ...
+🔭 I’m currently working on Softreck Projects
 
-I am here to improve my management skills and to share my ideas in: video/app streaming, education, functional thinking
+I am here to improve my management skills and to share my ideas in areas: 
++ application streaming
++ functional thinking
++ wetware, devops, domains, microfrontends
+
 
 Feel free to use my code, I spent many hours to give my ideas life, but it's still not perfect, don't hesitate to improve the code and use it to your own projects!
 
@@ -19,16 +24,14 @@ Feel free to use my code, I spent many hours to give my ideas life, but it's sti
 
 ![Cordersrank about](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=tom-sapletta-com&labels=true)
 
-- 🔭 I’m currently working on Softreck Projects
-- 💬 Ask me about home education
 
 
 ```json
 Tom Sapletta {
   "tags":     ["Domains", "DevOps", "Wetware", "Modularity"],  
-  "country":  "Germany",
-  "Language": ["JAVA", "Python", "PHP", "JS", "NodeJS", "..."],
-  "interest": ["Clean Code", "Clean Architecture", "Static Code Analysis", "Linux", "IoT"]
+  "countries":  ["Germany"],
+  "languages": ["JAVA", "Python", "PHP", "JS", "NodeJS", "..."],
+  "interests": ["Clean Code", "Clean Architecture", "Static Code Analysis", "Linux", "IoT"]
 }
 ```
 
