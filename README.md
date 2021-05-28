@@ -10,9 +10,9 @@ I am here to improve my management skills and to share my ideas in areas:
 
 
 
-I spent tousends of hours to give my ideas life, but it's still not perfect,
-Feel free to use my source code from hundreds of repos/projects/organisations,
-don't hesitate to improve the code and use it to your own projects!
+I spent thousands of hours to give my ideas life, but it's still not perfect.
+Feel free to use my source code from hundreds of repos/projects/organisations.
+Don't hesitate to improve the code and use it to your own projects!
 
 [![Github](https://img.shields.io/github/followers/tom-sapletta-com?label=Follow&style=social)](https://github.com/tom-sapletta-com)
 
