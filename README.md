@@ -1,6 +1,7 @@
 ... Hello in [OSS](https://en.wikipedia.org/wiki/Open-source_software) World!
 
 I'm Tom, DevOps focused on PHP, JAVA, JavaScript/NodeJS/Deno, Python, Bash, ...
+
 🔭 I’m currently working on Softreck Projects
 
 I am here to improve my management skills and to share my ideas in areas: 
@@ -11,6 +12,7 @@ I am here to improve my management skills and to share my ideas in areas:
 
 
 I spent thousands of hours to give my ideas life, but it's still not perfect.
+
 Feel free to use my source code from hundreds of repos/projects/organisations.
 Don't hesitate to improve the code and use it to your own projects!
 
