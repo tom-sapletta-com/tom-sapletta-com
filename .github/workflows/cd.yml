@@ -1,0 +1,35 @@
+name: CD
+
+on: 
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          submodules: 'recursive'
+
+      - uses: actions/setup-python@v2
+
+      - name: Build
+        env:
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+        run: |
+          pip3 install graph-cli
+          sudo apt update -y
+          sudo apt install -y jq
+          bash ./collect_data.sh 65
+          bash ./build.sh
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Automatic update
+          commit_options: '--amend'
+          push_options: '--force'  
