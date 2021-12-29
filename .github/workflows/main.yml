@@ -33,7 +33,7 @@ jobs:
           plugin_topics: yes
           plugin_topics_limit: 0
           plugin_topics_mode: mastered
-          plugin_notable: yes
+          plugin_notable: no
           plugin_notable_repositories: no
           plugin_people: yes
           plugin_people_limit: 24
