@@ -34,7 +34,7 @@ jobs:
           plugin_topics_limit: 0
           plugin_topics_mode: mastered
           plugin_notable: yes
-          plugin_notable_repositories: yes
+          plugin_notable_repositories: no
           plugin_discussions: yes
           config_order: base.header, isocalendar, languages, notable, discussions, topics
           output_action: pull-request
