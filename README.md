@@ -21,7 +21,8 @@ Don't hesitate to improve the code and use it to your own projects!
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tom-sapletta-com&hide=html&layout=compact&theme=dark) 
 
 ### :star: 2021
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tom-sapletta-com&show_icons=true&theme=dark)
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=tom-sapletta-com&show_icons=true&theme=dark)
 
 ![Cordersrank skills](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=tom-sapletta-com)
 
@@ -41,7 +42,7 @@ Tom Sapletta {
 ```
 ![Metrics](metrics.svg)
 
-![Metrics sponsors](metrics.personal.sponsors.svg)
+[Metrics sponsors](metrics.personal.sponsors.svg)
 
 
 ![Metrics achievements](metrics.personal.achievements.svg)
