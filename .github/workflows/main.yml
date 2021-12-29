@@ -30,12 +30,12 @@ jobs:
           plugin_languages_sections: most-used, recently-used
           plugin_languages_indepth: yes
           plugin_languages_limit: 2
-          plugin_topics: yes
+          plugin_topics: no
           plugin_topics_limit: 0
           plugin_topics_mode: mastered
-          plugin_notable: yes
+          plugin_notable: no
           plugin_notable_repositories: no
-          plugin_discussions: yes
+          plugin_discussions: no
           config_order: base.header, isocalendar, languages, notable, discussions, topics
           output_action: pull-request
 
