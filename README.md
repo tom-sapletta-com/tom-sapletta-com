@@ -39,7 +39,7 @@ Tom Sapletta {
   "interests": ["Clean Code", "Clean Architecture", "Static Code Analysis", "Linux", "IoT"]
 }
 ```
-![Metrics](https://proxy.node6.workers.dev/gh/tom-sapletta-com/tom-sapletta-com/main/github-metrics.svg)
+![Metrics](metrics.svg)
 
 - Blog: [tom.sapletta.com](https://tom.sapletta.com/)
 - LinkedIn: [sapletta](https://www.linkedin.com/in/tom-sapletta-com/)
