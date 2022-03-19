@@ -20,7 +20,7 @@ Don't hesitate to improve the code and use it to your own projects!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tom-sapletta-com&hide=html&layout=compact&theme=dark) 
 
-### :star: 2021
+### :star: 2022
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=tom-sapletta-com&show_icons=true&theme=dark)
 
@@ -34,7 +34,7 @@ Don't hesitate to improve the code and use it to your own projects!
 
 ```json
 Tom Sapletta {
-  "tags":     ["Domains", "DevOps", "Wetware", "Modularity"],  
+  "tags":     ["Domains", "DevOps", "Wetware", "Modularity", "5G", "6G"],  
   "countries":  ["Germany"],
   "languages": ["JAVA", "Python", "PHP", "JS", "NodeJS", "..."],
   "interests": ["Clean Code", "Clean Architecture", "Static Code Analysis", "Linux", "IoT"]
