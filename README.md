@@ -9,9 +9,6 @@ I'm Tom, DevOps focused on PHP, JAVA, JavaScript/NodeJS/Deno, Python, Bash, ...
 + wetware, devops, domains
 
 <code>🔭 [Researcher](https://linkedin.com/in/tom-sapletta-com)</code>
-<code>💡 [CEO at Softreck Company](https://linkedin.com/in/softreck)</code>
-<code>⬢ CTO at Softreck @ [softreck](https://github.com/softreck)</code>
-<code>⬢ Architect at Infreck @ @ [Infreck](https://github.com/infreck)</code>
 <code>👷  [by Github followers](https://github.com/search?q=location%3AEstonia)</code>
 
 I spent thousands of hours to give my ideas life, but it's still not perfect.
