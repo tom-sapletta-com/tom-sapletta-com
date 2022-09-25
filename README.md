@@ -11,7 +11,7 @@ I'm Tom, DevOps focused on PHP, JAVA, JavaScript/NodeJS/Deno, Python, Bash, ...
 
 #text2software
 + #text2doc - specifications, documentations, tutorials
-+ #text2code - software development
++ #text2dsl - software development
 + #text2ops - operations, SDLC
 
 
