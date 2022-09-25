@@ -4,9 +4,17 @@ I'm Tom, DevOps focused on PHP, JAVA, JavaScript/NodeJS/Deno, Python, Bash, ...
 
 🔭 I’m currently working on Softreck Projects and I am sharing here my ideas in areas: 
 
-+ frontend & backend application streaming
++ frontend & backend application streaming (webstream)
 + hypermodularity, functional thinking, apidsl
 + wetware, devops, domains
+
+
+#text2software
++ #text2doc - specifications, documentations, tutorials
++ #text2code - software development
++ #text2ops - operations, SDLC
+
+
 
 <code>🔭 [Researcher](https://linkedin.com/in/tom-sapletta-com)</code>
 <code>👷  [by Github followers](https://github.com/search?q=location%3AEstonia)</code>
