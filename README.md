@@ -2,7 +2,7 @@
 
 I'm Tom, DevOps focused on PHP, JAVA, JavaScript/NodeJS/Deno, Python, Bash, ...
 
-🔭 I’m currently working on Softreck Projects and I am sharing here my ideas in areas: 
+🔭 I’m currently working on: 
 
 + frontend & backend application streaming (webstream)
 + hypermodularity, functional thinking, apidsl
