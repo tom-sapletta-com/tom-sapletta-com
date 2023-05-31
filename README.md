@@ -18,8 +18,12 @@ and will give more benefits for software development on devops level.
 
 
 
+<code>🔭 [Researcher](https://www.researcher.pl)</code>
+<code>🔭 [codersrank](https://profile.codersrank.io/user/tom-sapletta-com/)</code>
 <code>🔭 [Researcher](https://linkedin.com/in/tom-sapletta-com)</code>
-<code>👷  [by Github followers](https://github.com/search?q=location%3AEstonia)</code>
+<code>👷  [by followers](https://github.com/search?q=location%3AGermany)</code>
+<code>👷  [by followers](https://github.com/search?q=location%3AEstonia)</code>
+<code>👷  [by followers](https://github.com/search?q=location%3APoland)</code>
 
 I spent thousands of hours to give my ideas life, but it's still not perfect.
 
