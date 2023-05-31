@@ -31,7 +31,7 @@ Don't hesitate to improve the code and use it to your own projects!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tom-sapletta-com&hide=html&layout=compact&theme=dark) 
 
-### :star: 2022
+### :star: 2023
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=tom-sapletta-com&show_icons=true&theme=dark)
 
