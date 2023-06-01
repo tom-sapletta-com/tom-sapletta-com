@@ -1,6 +1,8 @@
 ... Hello in [OSS](https://en.wikipedia.org/wiki/Open-source_software) World!
 
-I'm Tom, DevOps focused on PHP, JAVA, JavaScript/NodeJS/Deno, Python, Bash, ...
+Thousands of projects, year of experience & still happy to learn ...
+
+I'm Tom, DevOps focused on JAVA, JavaScript/NodeJS/Deno, Python, PHP, Bash, ...
 
 🔭 I’m currently working on: 
 
