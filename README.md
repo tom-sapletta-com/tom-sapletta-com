@@ -55,14 +55,7 @@ Tom Sapletta {
 ```
 
 
-## Techstack
-
-### Programming and development
-<p>
-    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white" /></a>
-    <a href="#"><img alt="GNU Bash" src="https://img.shields.io/badge/GNU Bash-4EAA25.svg?logo=gnubash&logoColor=white" /></a>
-    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black" /></a>    
-</p>
+## Techstack and tools
 
 ### Analytics and databases
 <p>
