@@ -125,18 +125,14 @@ Tom Sapletta {
 ### Operating systems
 
 <p>
-    <a href="#"><img alt="GNU/Linux" src="https://img.shields.io/badge/GNU%2FLinux-%23F7DF1E.svg?logo=Linux&logoColor=black" /></a>
+    <a href="#"><img alt="GNU/Linux" src="https://img.shields.io/badge/GNU%2FLinux-%23F7DF1E.svg?logo=Linux&logoColor=black" /></a>    
+    <a href="#"><img alt="Fedora Linux" src="https://img.shields.io/badge/Fedora%20Linux-51A2DA.svg?logo=fedora&logoColor=white" /></a>
+    <a href="#"><img alt="CentOS Stream" src="https://img.shields.io/badge/CentOS%20Stream-262577.svg?logo=CentOS&logoColor=white" /></a>    
+    <a href="#"><img alt="Ubuntu Linux" src="https://img.shields.io/badge/Ubuntu%20Linux-FE7A16.svg?logo=Ubuntu&logoColor=white" /></a>
+    <a href="#"><img alt="Debian Linux" src="https://img.shields.io/badge/Debian%20Linux-A81D33.svg?logo=Debian&logoColor=white" /></a>    
+    <a href="#"><img alt="Alpine Linux" src="https://img.shields.io/badge/Alpine%20Linux-0D597F.svg?logo=alpinelinux&logoColor=white" /></a>
     <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-%2391E6.svg?logo=Windows&logoColor=white" /></a>
     <a href="#"><img alt="Mac OS" src="https://img.shields.io/badge/Mac%20OS-%23E34F26.svg?logo=Apple&logoColor=white" /></a>
-    <a href="#"><img alt="Fedora Linux" src="https://img.shields.io/badge/Fedora%20Linux-51A2DA.svg?logo=fedora&logoColor=white" /></a>
-    <a href="#"><img alt="CentOS Stream" src="https://img.shields.io/badge/CentOS%20Stream-262577.svg?logo=CentOS&logoColor=white" /></a>
-    <a href="#"><img alt="Red Hat Enterprise Linux" src="https://img.shields.io/badge/Red%20Hat%20Enterprise%20Linux-EE0000.svg?logo=redhat&logoColor=white" /></a>
-    <a href="#"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=archlinux&logoColor=white" /></a>
-    <a href="#"><img alt="OpenSUSE" src="https://img.shields.io/badge/OpenSUSE-73BA25.svg?logo=OpenSUSE&logoColor=white" /></a>
-    <a href="#"><img alt="Ubuntu Linux" src="https://img.shields.io/badge/Ubuntu%20Linux-FE7A16.svg?logo=Ubuntu&logoColor=white" /></a>
-    <a href="#"><img alt="Debian Linux" src="https://img.shields.io/badge/Debian%20Linux-A81D33.svg?logo=Debian&logoColor=white" /></a>
-    <a href="#"><img alt="Manjaro Linux" src="https://img.shields.io/badge/Manjaro%20Linux-35BF5C.svg?logo=manjaro&logoColor=white" /></a>
-    <a href="#"><img alt="Alpine Linux" src="https://img.shields.io/badge/Alpine%20Linux-0D597F.svg?logo=alpinelinux&logoColor=white" /></a>
 </p>
 
 
