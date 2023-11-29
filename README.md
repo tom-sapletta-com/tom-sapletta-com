@@ -9,14 +9,9 @@ I'm Tom, DevOps focused on JAVA, JavaScript/NodeJS/Deno, Python, PHP, Bash, ...
 + frontend & backend application streaming (webstream)
 + hypermodularity, functional thinking, apidsl
 + wetware, devops, domains
-
-I extended #speech2text systems that accurately transcribes spoken audio to text
-and will give more benefits for software development on devops level.
-
-#text2software
-+ #text2doc - specifications, documentations, tutorials
-+ #text2dsl - software development based on domain specific language logic 
-+ #text2ops - operations, SDLC
++ text2doc - specifications, documentations, tutorials
++ text2dsl - software development based on domain specific language logic 
++ text2ops - operations, SDLC
 
 
 
