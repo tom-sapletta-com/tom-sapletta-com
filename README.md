@@ -6,12 +6,12 @@ I'm Tom, DevOps focused on JAVA, JavaScript/NodeJS/Deno, Python, PHP, Bash, ...
 
 🔭 I’m currently working on: 
 
-+ frontend & backend application streaming (webstream)
-+ hypermodularity, functional thinking, apidsl
-+ wetware, devops, domains
-+ text2doc - specifications, documentations, tutorials
-+ text2dsl - software development based on domain specific language logic 
-+ text2ops - operations, SDLC
++ Webstream -frontend & backend application streaming
++ Hypermodularity - modular architecture
++ Dialogware - text to software platform:
+  + text2doc - specifications, documentations, tutorials
+  + text2dsl - software development based on domain specific language logic 
+  + text2ops - operations, SDLC
 
 
 
