@@ -33,7 +33,7 @@ Don't hesitate to improve the code and use it to your own projects!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tom-sapletta-com&hide=html&layout=compact&theme=dark) 
 
-### :star: 2023
+### :star: 2024
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=tom-sapletta-com&show_icons=true&theme=dark)
 
@@ -151,3 +151,6 @@ Tom Sapletta {
 
 
 Follow me on LinkedIn: www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=tom-sapletta-com
+
+
+![Polish Native](https://img.shields.io/badge/%F0%9F%87%B5%F0%9F%87%B1Polish-native-blue?style=for-the-badge) ![German B2](https://img.shields.io/badge/%F0%9F%87%AC%F0%9F%87%A7German-B2-blue?style=for-the-badge) ![English B1](https://img.shields.io/badge/%F0%9F%87%AC%F0%9F%87%A7English-B1-blue?style=for-the-badge) ![Russian B1](https://img.shields.io/badge/%F0%9F%87%AC%F0%9F%87%A7Russian-B1-blue?style=for-the-badge)
