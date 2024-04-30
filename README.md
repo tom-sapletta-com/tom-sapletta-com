@@ -147,7 +147,8 @@ Tom Sapletta {
 
 - Blog: [tom.sapletta.com](https://tom.sapletta.com/)
 - LinkedIn: [sapletta](https://www.linkedin.com/in/tom-sapletta-com/)
-- XING: [sapletta](https://www.xing.com/profile/Tomasz_Sapletta)
+- XING: [sapletta](https://www.xing.com/profile/Tom_Sapletta/)
+
 
 
 Follow me on LinkedIn: www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=tom-sapletta-com
