@@ -1,17 +1,17 @@
 ... Hello in [OSS](https://en.wikipedia.org/wiki/Open-source_software) World!
 
-Thousands of projects, year of experience & still happy to learn ...
+🔭 Over 272 projects organized within a modular structure in organizations (34 rows X 8 cols)
+I spent thousands of hours to give my ideas life ...
+My name is Tom, and I specialize in DevOps with a focus on JAVA, JavaScript/NodeJS/Deno, Python, PHP, and Bash. 
 
-I'm Tom, DevOps focused on JAVA, JavaScript/NodeJS/Deno, Python, PHP, Bash, ...
+🔭**Currently, I am working on:**
 
-🔭 I’m currently working on: 
-
-+ Webstream -frontend & backend application streaming
-+ Hypermodularity - modular architecture
-+ Dialogware - text to software platform:
-  + text2doc - specifications, documentations, tutorials
-  + text2dsl - software development based on domain specific language logic 
-  + text2ops - operations, SDLC
++ **Webstream:** A comprehensive application for frontend and backend streaming.
++ **Hypermodularity:** Advocating and developing modular architectures for more flexible and scalable systems.
++ **Dialogware:** A revolutionary text-to-software platform designed to streamline various aspects of software development and operations.
+  + **text2doc:** Facilitates the creation of specifications, documentations, and tutorials from plain text.
+  + **text2dsl:** Enables software development based on domain-specific language logic.
+  + **text2ops:** Streamlines operations and the software development life cycle (SDLC) through textual commands and processes.
 
 
 
@@ -23,7 +23,6 @@ I'm Tom, DevOps focused on JAVA, JavaScript/NodeJS/Deno, Python, PHP, Bash, ...
 <code>👷 [EE followers](https://github.com/search?q=location%3AEstonia)</code>
 
 
-I spent thousands of hours to give my ideas life, but it's still not perfect.
 
 Feel free to use my source code from hundreds of repos/projects/organisations.
 
