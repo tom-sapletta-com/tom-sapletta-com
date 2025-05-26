@@ -16,7 +16,6 @@ jobs:
     steps:
 
       - name: 🦑 Personal metrics (left)
-        if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.svg
@@ -44,7 +43,6 @@ jobs:
           output_action: pull-request
 
       - name: 🦑 Personal metrics (bottom 1)
-        if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.personal.achievements.svg
@@ -55,7 +53,6 @@ jobs:
           output_action: pull-request
 
       - name: 🦑 Personal metrics (bottom 2)
-        if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.personal.sponsors.svg
