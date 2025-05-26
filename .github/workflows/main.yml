@@ -10,16 +10,32 @@ on:
       - master
       - main
   workflow_dispatch:
+
+# Set the default permissions
+permissions:
+  contents: write
+  pull-requests: write
+  issues: write
+  checks: write
+  statuses: write
+
 jobs:
   github-metrics-personal:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Setup Docker
+        uses: docker/setup-buildx-action@v2
 
       - name: 🦑 Personal metrics (left)
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           base: header
           plugin_isocalendar: yes
           plugin_languages: yes
@@ -46,7 +62,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.personal.achievements.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
           plugin_achievements: yes
           plugin_achievements_display: compact
@@ -56,7 +72,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.personal.sponsors.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
           plugin_sponsors: yes
           output_action: pull-request-squash
