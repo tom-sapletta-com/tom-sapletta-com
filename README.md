@@ -1,6 +1,8 @@
 # Tom Sapletta — DevOps Engineer & Systems Architect
 
-... Hello in [OSS](https://en.wikipedia.org/wiki/Open-source_software) World!
+[![Portfolio](https://img.shields.io/badge/View_My_Full_Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://www.digitname.com/)
+
+Hello in [OSS](https://en.wikipedia.org/wiki/Open-source_software) World!
 
 🔭 Over 272 projects organized within a modular structure in organizations (34 rows X 8 cols)
 I spent thousands of hours to give my ideas life ...
