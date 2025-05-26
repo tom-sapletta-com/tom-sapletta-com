@@ -1,24 +1,82 @@
-# Tom Sapletta — DevOps Engineer, Software Developer, and Systems Architect with 12+ years of experience. I specialize in bridging human needs and technology through edge computing, hypermodularization, and automated software lifecycles.
+# Tom Sapletta — DevOps Engineer & Systems Architect
 
-## Areas of Expertise
+... Hello in [OSS](https://en.wikipedia.org/wiki/Open-source_software) World!
 
-- **DevOps & Cloud:** Docker, Kubernetes, CI/CD, automation
-- **Software:** Java, Python, PHP, NodeJS, microservices
-- **Edge Computing & IoT:** Distributed systems, sensor networks
-- **Hardware Integration:** Embedded, power management
-- **Research:** TextToSoftware, Hypermodularization, MBSE
+🔭 Over 272 projects organized within a modular structure in organizations (34 rows X 8 cols)
+I spent thousands of hours to give my ideas life ...
+- ![organizations.png](organizations.png)
+
+## 🚀 About Me
+
+- 💻 15+ years in DevOps, Software Development, and Systems Architecture
+- 🏢 Founder & CEO at Telemonit (Portigen - edge computing power solutions)
+- 🌍 Based in Germany | Open to remote collaboration
+- 📚 Passionate about edge computing, hypermodularization, and automated SDLC
+
+## 🔭 Currently Working On
+
++ **Portigen**: Edge computing power supply system
++ **Webstream**: Full-stack streaming application
++ **Hypermodularity**: Modular architecture frameworks
++ **Dialogware**: Text-to-software platform
+  - text2doc: Documentation generation
+  - text2dsl: Domain-specific language development
+  - text2ops: SDLC automation
+
+## 🛠️ Tech Stack
+
+### Languages & Frameworks
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white)
+
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+
+### Monitoring & Logging
+![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
+![ELK](https://img.shields.io/badge/ELK-FF6D00?logo=elasticstack&logoColor=white)
+
+## 📊 GitHub Stats
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=tom-sapletta-com&show_icons=true&theme=dark)](https://github.com/tom-sapletta-com)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tom-sapletta-com&layout=compact&theme=dark)](https://github.com/tom-sapletta-com)
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/tom-sapletta-com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/tom-sapletta-com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/tom_sapletta)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0000-6327-2810)
+
+## 🌍 Languages
+
+![Polish Native](https://img.shields.io/badge/Polish-Native-blue?style=flat)
+![German B2](https://img.shields.io/badge/German-B2-blue?style=flat)
+![English B1](https://img.shields.io/badge/English-B1-blue?style=flat)
+![Russian B1](https://img.shields.io/badge/Russian-B1-blue?style=flat)
+
+## 📈 Metrics
+
+![Metrics](https://github.com/tom-sapletta-com/tom-sapletta-com/blob/main/metrics.svg)
 
 ---
 
-## Selected Projects
-
-**Portigen**  
-Power supply with edge computing for autonomous IoT/edge deployments (500Wh, ultra-low latency, modular).
-
-**TextToSoftware**  
-Natural language to code/applications — bridging human communication and software.
-
-**Python Packages**  
+© 2025 Tom Sapletta | [tom.sapletta.com](https://tom.sapletta.com) | [tom.sapletta.pl](https://tom.sapletta.pl) | [tom.sapletta.de](https://tom.sapletta.de)
 Creator of:  
 - `pifunc` (multi-protocol functions)
 - `mdirtree` (generate directories from Markdown)
