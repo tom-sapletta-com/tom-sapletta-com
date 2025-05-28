@@ -1,15 +1,18 @@
 # See https://github.com/lowlighter/metrics for documentation
-# This worflow is scheduled for every hour, and also run after each commit (GitHub action excluded) on master/main branch
+# This workflow is scheduled to run daily, and also after each commit on master/main branch
 
 name: Metrics
 on:
   schedule:
-    - cron: "0 16 * * *"
+    - cron: "0 16 * * *"  # Run daily at 16:00 UTC
   push:
     branches:
       - master
       - main
-  workflow_dispatch:
+    paths-ignore:
+      - '**.svg'  # Avoid infinite loops by ignoring changes to SVG files
+      - '**.md'
+  workflow_dispatch:  # Allow manual triggering
 
 # Set the default permissions
 permissions:
@@ -22,16 +25,18 @@ permissions:
 jobs:
   github-metrics-personal:
     runs-on: ubuntu-latest
+    timeout-minutes: 15  # Add timeout to prevent hanging jobs
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
       - name: Setup Docker
-        uses: docker/setup-buildx-action@v2
+        uses: docker/setup-buildx-action@v3
 
       - name: 🦑 Personal metrics (left)
+        id: metrics_left
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.svg
@@ -57,8 +62,11 @@ jobs:
           plugin_discussions: no
           config_order: base.header, isocalendar, languages, notable, discussions, topics
           output_action: pull-request
+          retries: 3  # Add retries for API rate limit issues
+          retry_delay: 300  # Delay between retries in seconds
 
       - name: 🦑 Personal metrics (bottom 1)
+        id: metrics_achievements
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.personal.achievements.svg
@@ -67,8 +75,11 @@ jobs:
           plugin_achievements: yes
           plugin_achievements_display: compact
           output_action: pull-request
+          retries: 3
+          retry_delay: 300
 
       - name: 🦑 Personal metrics (bottom 2)
+        id: metrics_sponsors
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.personal.sponsors.svg
@@ -76,3 +87,5 @@ jobs:
           base: ""
           plugin_sponsors: yes
           output_action: pull-request-squash
+          retries: 3
+          retry_delay: 300
