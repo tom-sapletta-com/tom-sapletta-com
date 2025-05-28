@@ -48,7 +48,7 @@ jobs:
       - name: Collect data
         if: steps.check_scripts.outputs.collect_script_exists == 'true'
         env:
-          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN || github.token }}
+          ACCESS_TOKEN: ${{ github.token }}
         run: bash ./collect_data.sh 65
 
       - name: Build
