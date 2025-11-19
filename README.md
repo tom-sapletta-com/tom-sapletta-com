@@ -3,7 +3,7 @@
 [![Portfolio](https://img.shields.io/badge/View_My_Full_Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://www.digitname.com/)
 
 
-**Prototypowanie.pl** is a software development company founded and led by **Toma Sapletta**, the company brings over **15 years of experience** in delivering software solutions, with particular expertise in rapid prototyping and edge computing systems.
+**Prototypowanie.pl** is a software development company founded and led by **Tom Sapletta**, the company brings over **15 years of experience** in delivering software solutions, with particular expertise in rapid prototyping and edge computing systems.
 **Prototypowanie.pl** is specializing in rapid software prototyping and innovative technological solutions. Based in Poland.
 
 ## Business Model
