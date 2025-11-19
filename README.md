@@ -2,9 +2,60 @@
 
 [![Portfolio](https://img.shields.io/badge/View_My_Full_Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://www.digitname.com/)
 
+
+**Prototypowanie.pl** is a software development company founded and led by **Toma Sapletta**, the company brings over **15 years of experience** in delivering software solutions, with particular expertise in rapid prototyping and edge computing systems.
+**Prototypowanie.pl** is specializing in rapid software prototyping and innovative technological solutions. Based in Poland.
+
+## Business Model
+
+Prototypowanie.pl delivers **working software prototypes within 8-24 hours**. The collaboration model follows an MVP (Minimum Viable Product) methodology:
+
+1. Client describes the business problem via a request form
+2. Upon 10% payment, the team creates detailed specification and technical plan
+3. After documentation acceptance (50% payment), the team prepares a working version in 8-24 hours
+4. Client receives 3 months warranty with free corrections up to 4 hours of work
+5. Upon finalization, client pays remaining 40% of the project value
+
+## Service Areas
+
+- Web applications
+- Admin panels
+- API integrations
+- Business automation
+- Hardware systems (IoT)
+- DevOps and system integration
+- Energy infrastructure connected with IT systems
+- **Automation**: RPA, Python, Zapier
+- **IoT**: Raspberry Pi, Arduino, MQTT/Modbus
+
+## Innovation Projects
+
+Tomasz Sapletta leads research on several breakthrough projects:
+
+- **TextToSoftware** – Ecosystem of platforms automating code generation from natural language descriptions (text.to.software, click.to.software, speech.to.software)
+- **Portigen** – Innovative power supply system integrating edge computing with voice control and local AI/NLP
+- **Hypermodularization** – Philosophy of creating ultra-modular systems (272 projects in a 34x8 structure)
+- **DataOps** – Comprehensive enterprise solutions with CI/CD for data
+
+## Professional Background
+
+Sapletta has worked in cybersecurity (Link11 GmbH), system integrations (IT-NRW), and automotive (Europcar). He manages infrastructure spanning dozens of servers and hundreds of internet domains.
+
+## Reputation
+
+On the Oferteo platform, the company has a **5.0/5 star rating** (4 reviews) with "Professional Seller" status.
+
+## Key Advantage
+
+Clients receive **complete source code, technical documentation, and implementation instructions**, providing full control over the project and the ability for future development or handover to another team.
+
+## Contact & Availability
+
+The company declares availability for consultations and short-term projects, though long-term cooperation is described as limited.
+
 Hello in [OSS](https://en.wikipedia.org/wiki/Open-source_software) World!
 
-🔭 Over 272 projects organized within a modular structure in organizations (34 rows X 8 cols)
+🔭 Over 300 projects organized within a modular structure in organizations (34 rows X 8 cols)
 I spent thousands of hours to give my ideas life ...
 - ![organizations.png](organizations.png)
 
